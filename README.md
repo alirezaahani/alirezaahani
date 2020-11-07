@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Phonebook program.
 - 🌱 I’m currently learning javascript.
-- 👯 I’m looking to collaborate on [https://github.com/Ferdowsi-lang/Ferdowsi-Python-Interpreter](this) project.
+- 👯 I’m looking to collaborate on (https://github.com/Ferdowsi-lang/Ferdowsi-Python-Interpreter)[this] project.
 - 🤔 I’m looking for help with javascript.  
 - 📫 How to reach me:
 
