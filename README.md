@@ -9,7 +9,6 @@
      :heavy_check_mark: Telegram: @alirezaahani1386
      
      :heavy_check_mark: Email: alirezaahani@protonmail.com
-- ⚡ Fun fact (Not really!): I'm 13 years old!
 
 <a align="center" href="https://github.com/alirezaahani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaahani&layout=compact" />
