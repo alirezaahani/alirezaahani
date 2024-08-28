@@ -2,7 +2,7 @@
 title: First post
 layout: posts.liquid
 is_draft: false
-published_date: 2024-08-28 23:38:00 +0330
+published_date: 2024-08-28 23:39:00 +0330
 description: First blog post, using Cobalt and Github Pages
 ---
 
