@@ -1,0 +1,17 @@
+---
+layout: default.liquid
+---
+
+<section>
+<div>
+
+   {% for post in collections.posts.pages %}
+    <section>
+      <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+      <time pubdate="pubdate">{{ post.published_date | date: "%Y/%m/%d %H:%M:%S" }}</time>
+      {% if post.description != "" %}<p>{{ post.description }}</p>{% elsif post.excerpt %}<p>{{ post.excerpt }}</p>{% else %}<br />{% endif %}
+    </section>
+
+   {% endfor %}
+</div>
+</section>
