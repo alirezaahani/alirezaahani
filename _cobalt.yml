@@ -1,8 +1,0 @@
-ignore:
-  - README.md
-site:
-  title: Alireza's blog
-  description: Personal blog
-  base_url: https://alirezaahani.github.io/
-posts:
-  rss: rss.xml
